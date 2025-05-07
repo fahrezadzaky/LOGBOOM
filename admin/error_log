@@ -1,0 +1,71 @@
+[03-May-2025 10:43:50 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 10:44:40 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 10:47:59 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 10:56:27 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 10:57:03 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 11:01:25 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 11:02:02 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 11:03:20 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/logr9371/public_html/vendor/composer/platform_check.php on line 28
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/templates/header.php on line 64
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 66
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 11:10:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 11:12:04 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header-report.php on line 62
+[03-May-2025 11:12:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header-report.php on line 62
+[03-May-2025 11:12:04 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header-report.php on line 65
+[03-May-2025 11:12:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header-report.php on line 65
+[03-May-2025 11:12:04 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header-report.php on line 66
+[03-May-2025 11:12:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header-report.php on line 66
+[03-May-2025 11:12:48 Asia/Jakarta] PHP Warning:  Undefined array key "month" in /home/logr9371/public_html/admin/report-bulanan.php on line 65
+[03-May-2025 11:12:48 Asia/Jakarta] PHP Warning:  Undefined array key "year" in /home/logr9371/public_html/admin/report-bulanan.php on line 66
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/templates/header.php on line 64
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 66
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 14:12:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/templates/header.php on line 64
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 66
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 18:04:48 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 63
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/templates/header.php on line 64
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 66
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 69
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 70
+[03-May-2025 22:21:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 70
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 63
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 63
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/templates/header.php on line 64
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 66
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 69
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 69
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 70
+[06-May-2025 16:11:01 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 70
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 63
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 63
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/templates/header.php on line 64
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 66
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 69
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 69
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/templates/header.php on line 70
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/templates/header.php on line 70
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "login" in /home/logr9371/public_html/admin/profil.php on line 4
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/profil.php on line 4
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/logr9371/public_html/admin/profil.php on line 6
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/profil.php on line 45
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/profil.php on line 51
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/profil.php on line 57
+[06-May-2025 19:37:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/logr9371/public_html/admin/profil.php on line 74
